@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-11-15, 10:50 p.m.
+-- Submitted   2026-11-15, 10:51 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT SUM(C1.POPULATION) FROM CITY C1,COUNTRY C2
